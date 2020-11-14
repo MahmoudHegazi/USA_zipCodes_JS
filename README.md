@@ -1,6 +1,6 @@
 # USA_zipCodes_JS
-app can return array from range start and end final result return list includes all zip code in the US 
-
+app can return array from range start and end final result return list includes all zip codes in the US 
+http://phaster.com/zip_code.html
 
 ### final result say thanks to USA_zipCodes_js and give it start if you gonna copy my list
 
